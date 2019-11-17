@@ -1,0 +1,12 @@
+#MAC STUFF
+.DS_Store
+.Trashes
+*.swp
+#NODE STUFF
+logs
+*.log
+npm-debug.log*
+pids
+*.pid
+*.seed
+node_modules
